@@ -1,0 +1,22 @@
+/* Your styles here */
+header {text-align: center; margin-bottom: 0;}
+.logo {margin-bottom: 0;}
+.banner {margin-top: 0; background-image: url(../images/banner.jpg);background-position: center center; background-size: 80%; background-repeat: no-repeat;}
+.Tutti {color: aqua;}
+.Lavora {color: aqua;}
+.scegli {color: aqua;}
+.lavoro {color: aqua;}
+.class2 {background: #e42e0e;}
+.class2 p {color: white;}
+.class2 h1 {color: white;}
+.class2 h2 {color: white;}
+.iltuopc {color: aqua;}
+.imparaora {color: aqua;}
+.lavorasubito {color: aqua;}
+p {color: #393d41; font-family:'Open Sans', sans-serif;text-size-adjust: 1.2rem;}
+h2 {color: #25a2c3; font-family:'Montserrat', sans-serif;text-size-adjust: 1.2rem;}
+h1 {color: #25a2c3; font-family:'Montserrat', sans-serif}
+.footer {background:rgb(16, 166, 211);}
+.footer p {color: white; text-decoration: underline;}
+.line {color: white solid 1px}
+.pixabay {color: white; text-decoration: none;}
